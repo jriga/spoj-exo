@@ -1,0 +1,6 @@
+#External Dependencies
+#Sat Mar 06 19:13:11 GMT 2010
+/Users/jriga/devel/training/spoj/400_to_and_fro/scala/project/boot/scala-2.7.7/lib/scala-library.jar=src/test/scala/ToandfroSpec.scala
+/System/Library/Frameworks/JavaVM.framework/Versions/1.6.0/Classes/classes.jar=src/test/scala/ToandfroSpec.scala
+/Users/jriga/devel/training/spoj/400_to_and_fro/scala/lib_managed/scala_2.7.7/test/scalatest-1.0.jar=src/test/scala/ToandfroSpec.scala
+/Users/jriga/devel/training/spoj/400_to_and_fro/scala/target/scala_2.7.7/classes/Toandfro$.class=src/test/scala/ToandfroSpec.scala

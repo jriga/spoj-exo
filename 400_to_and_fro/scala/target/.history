@@ -1,0 +1,35 @@
+reload
+update
+test
+quit
+update
+test
+help
+actions
+compile
+test
+quit
+test
+quit
+actions
+compile
+quit
+test
+quit
+test
+compile
+actions
+set build.scala.versions 2.7.7 2.7.4
+reload
+++2.7.4
+test
+update
+compile
+actions
+run ToandFro
+++2.7.7
+run ToandFro
+test
+run ToandFro
+run ToandFro.main
+quit
